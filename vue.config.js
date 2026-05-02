@@ -25,11 +25,17 @@ module.exports = {
 	css: {
 		extract: false,
 	},
+	configureWebpack: {
+		resolve: {
+			fallback: {
+				fs: false,
+				path: false,
+			},
+		},
+	},
 	chainWebpack: config => {
 		config.output.filename("./[name].js");
 		config.output.chunkFilename("./[name].js");
-
-		//config.optimization.delete("splitChunks");
 
 		entries.forEach(name => {
 			config.plugins.delete(`html-${name}`);

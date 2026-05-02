@@ -42,9 +42,6 @@ math:
 custom_file_path:
   style: source/_data/styles.styl
 
-kramed:
-  smartypants: false
-
 gitalk:
   enable: true
   github_id: FindLab

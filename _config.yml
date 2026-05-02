@@ -102,8 +102,9 @@ theme: next
 deploy:
   type: ''
 
-kramed:
+marked:
   breaks: false
+  gfm: true
 
 feed:
   type: atom
