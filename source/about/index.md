@@ -4,7 +4,6 @@ email: k-l-lambda@gmail.com
 title: About FindLab
 ---
 
-FindLab is a commercial laboratory subordinated to [Find Piano](https://www.findpiano.cn/).
+FindLab is a non-profit organization dedicated to research on music-related algorithms.
 
-We are committed to explore an innovative solution for piano learning,
-apply modern artificial intelligence technologies, and implement promising creative ideas.
+We explore computational methods for music understanding, notation, performance, education, and creative tools, with a focus on practical systems that connect music research with real-world applications.
