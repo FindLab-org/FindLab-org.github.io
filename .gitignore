@@ -7,7 +7,6 @@ public/
 .deploy*/
 footages
 themes/*
-yarn.lock
 source/vue/
 *.local
 .vscode/
