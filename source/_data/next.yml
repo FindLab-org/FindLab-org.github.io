@@ -1,8 +1,8 @@
 
 favicon:
-  small: /images/favicon-16x16-find.png
-  medium: /images/favicon-32x32-find.png
-  apple_touch_icon: /images/favicon-64x64-find.png
+  small: /images/favicon.svg
+  medium: /images/favicon.svg
+  apple_touch_icon: /images/favicon.svg
   safari_pinned_tab:
 
 scheme: Mist
@@ -25,7 +25,7 @@ links:
   Find智慧钢琴: https://www.findpiano.cn/
 
 avatar:
-  url: /images/favicon-64x64-find.png
+  url: /images/favicon.svg
 
 
 coauthors:
